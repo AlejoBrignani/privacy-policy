@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Política de Privacidad - Brilik Software</title>
+</head>
+<body style="max-width: 800px; margin: auto; font-family: Arial, sans-serif; line-height: 1.6; padding: 20px;">
+  <h1>Política de Privacidad</h1>
+  <p><strong>Última actualización:</strong> [FECHA]</p>
+
+  <p>Brilik Software ("nosotros", "nuestro" o "la App") respeta su privacidad y se compromete a protegerla. Esta Política de Privacidad explica cómo recopilamos, usamos y protegemos su información.</p>
+
+  <h2>1. Información que recopilamos</h2>
+  <p>Recopilamos y utilizamos la siguiente información:</p>
+  <ul>
+    <li><strong>Cuentas de Google:</strong> Para autenticación y acceso a la App.</li>
+    <li><strong>ID de publicidad:</strong> Para mostrar anuncios personalizados a través de Google.</li>
+    <li><strong>Preferencias y gustos:</strong> Guardamos preferencias y gustos del usuario para mejorar la experiencia.</li>
+  </ul>
+
+  <h2>2. Publicidad</h2>
+  <p>La publicidad que se muestra en la App es proporcionada únicamente por Google. No gestionamos ni mostramos anuncios de terceros distintos de Google.</p>
+
+  <h2>3. Cómo usamos la información</h2>
+  <p>Usamos la información recopilada para:</p>
+  <ul>
+    <li>Proporcionar, operar y mejorar la App.</li>
+    <li>Mostrar anuncios relevantes.</li>
+    <li>Personalizar la experiencia del usuario.</li>
+  </ul>
+
+  <h2>4. Compartir información</h2>
+  <p>No compartimos información personal con terceros, salvo con Google como proveedor de servicios de publicidad y análisis, o cuando la ley lo requiera.</p>
+
+  <h2>5. Seguridad</h2>
+  <p>Implementamos medidas razonables para proteger la información del usuario. Sin embargo, ningún método es 100% seguro.</p>
+
+  <h2>6. Derechos del usuario</h2>
+  <p>El usuario puede solicitar acceso, corrección o eliminación de sus datos personales enviando un correo a <a href="mailto:brilik.software@gmail.com">brilik.software@gmail.com</a>.</p>
+
+  <h2>7. Cambios en esta política</h2>
+  <p>Podemos actualizar esta Política de Privacidad. Cualquier cambio importante será notificado dentro de la App o en esta página.</p>
+
+  <h2>8. Contacto</h2>
+  <p>Si tiene preguntas, puede contactarnos en: <a href="mailto:brilik.software@gmail.com">brilik.software@gmail.com</a></p>
+</body>
+</html>
